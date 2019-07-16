@@ -268,4 +268,66 @@
 
 #### Smartcard events
 
+1. icccardlockerror
+2. iccinfochange
+3. smartcard-insert
+4. smartcard-remove
+5. stkcommand
+6. stksessionend
+7. cardstatechange
+
+#### SMS and USSD event
+
+1. delivered
+2. received
+3. sent
+4. ussdreceived
+
+#### Frame events
+
+1. mozbrowserclose
+2. mozbrowsercontextmenu
+3. mozbrowsererror
+4. mozbrowsericonchange
+5. mozbrowserlocationchange
+6. mozbrowserloadend
+7. mozbrowserloadstart
+8. mozbrowseropenwindow
+9. mozbrowsersecuritychange
+10. mozbrowsershowmodalprompt
+11. mozbrowsertitlechange
+
+#### DOM mutation events
+
+1. DOMAttributeNameChanged
+2. DOMAttrModified
+3. DOMCharacterDataModified
+4. DOMContentLoaded
+5. DOMElementNameChanged
+6. DOMNodeInserted
+7. DOMNodeInsertedIntoDocument
+8. DOMNodeRemoved
+9. DOMNodeRemovedFromDocument
+10. DOMSubtreeModified
+
+#### Touch events
+
+1. touchcancel
+2. touchend
+3. touchmove
+4. touchstart
+
+#### Pointer events
+
+1. pointerover
+2. pointerenter
+3. pointerdown
+4. pointermove
+5. pointerup
+6. pointercancel
+7. pointerout
+8. pointerleave
+9. gotpointercapture
+10. lostpointercapture
+
 ## [Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)

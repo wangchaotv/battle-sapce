@@ -7,17 +7,27 @@
 7. interesting ['ɪntrəstɪŋ]
 8. thing [θɪŋ]
 9. that [ðæt]
-10. take & taken [teɪk] & ['teɪkən]
+10. take [teɪk]
+    taken ['teɪkən]
 11. place [pleɪs]
-12. add-on && add-ons [æd ɑːn]
+12. add-on [æd ɑːn]
+    add-ons
 13. except [ɪk'sept]
 14. exact [ɪɡ'zækt]
 15. confirm [kən'fɜːrm]
 16. reserve [rɪ'zɜːrv]
 17. margin ['mɑːrdʒən]
-18. declare & declared [dɪ'kler]
-19. mixin (mix [mɪks] + in [ɪn])
+18. declare [dɪ'kler]
+    declared
+19. mixin
+    mix [mɪks]
+    in [ɪn]
 20. directive [də'rektɪv]
 21. amount [ə'maʊnt]
 22. round [raʊnd]
-23. nest & nested [nest] & [nestɪd]
+23. nest [nest]
+    nested [nestɪd]
+24. quote [kwoʊt]
+    quoted
+25. stamp [stæmp]
+26. command [kə'mænd]
