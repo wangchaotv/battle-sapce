@@ -4,14 +4,14 @@
 
 #### Resource events
 
-    source   [sɔːrs] n. 来源
-    resource ['riːsɔːrs] n. 资源
-
 1. error ['erər] n. 错误
 2. abort [ə'bɔːrt] v. 中止
 3. load [loʊd] v. 装载 n. 负荷
 4. beforeunload
 5. unload [ˌʌn'loʊd] v. 卸下
+
+   - source [sɔːrs] n. 来源
+   - resource ['riːsɔːrs] n. 资源
 
 #### Network events
 
@@ -25,13 +25,13 @@
 
 #### Websocket events
 
-    web [web] n. 网 网络
-    socket ['sɑːkɪt] n. 插座
-
 1. open
 2. message
 3. error
 4. close [kloʊs] v. 关 结束
+
+   - web [web] n. 网 网络
+   - socket ['sɑːkɪt] n. 插座
 
 #### Session History events
 
@@ -39,8 +39,8 @@
 2. pageshow
 3. popstate
 
-   hide [haɪd] v. 藏 隐藏
-   show [ʃoʊ] v. 显示 展示
+   - hide [haɪd] v. 藏 隐藏
+   - show [ʃoʊ] v. 显示 展示
 
 #### CSS Animation events
 
@@ -49,8 +49,8 @@
 3. animationend
 4. animationiteration
 
-   animation [ˌænɪ'meɪʃn] n. 动画片
-   iteration [ˌɪtə'reɪʃn] n. 迭代 循环
+   - animation [ˌænɪ'meɪʃn] n. 动画片
+   - iteration [ˌɪtə'reɪʃn] n. 迭代 循环
 
 #### CSS Transition evnets
 
@@ -59,15 +59,15 @@
 3. transitionend
 4. transitionrun
 
-   transition [træn'zɪʃn] n. 转变 过渡
+   - transition [træn'zɪʃn] n. 转变 过渡
 
 #### Form events
 
 1. reset
 2. submit
 
-   reset [ˌriː'set] n.v. 重新设定
-   submit [səb'mɪt] v. 提交
+   - reset [ˌriː'set] n.v. 重新设定
+   - submit [səb'mɪt] v. 提交
 
 #### Printing events
 
@@ -80,8 +80,8 @@
 2. compositionupdate
 3. compositionend
 
-   text [tekst] n. 文本
-   composition [ˌkɑːmpə'zɪʃn] n. 作文 成分
+   - text [tekst] n. 文本
+   - composition [ˌkɑːmpə'zɪʃn] n. 作文 成分
 
 #### View events
 
@@ -90,11 +90,11 @@
 3. resize
 4. scroll
 
-   full [fʊl] adj. 满的 完全的
-   view [vjuː] n. 视野 v. 看
-   screen [skriːn] n. 屏幕
-   resize [ˌriː'saɪz] v. 调整大小
-   scroll [skroʊl] n. 卷轴 v. 卷动
+   - full [fʊl] adj. 满的 完全的
+   - view [vjuː] n. 视野 v. 看
+   - screen [skriːn] n. 屏幕
+   - resize [ˌriː'saɪz] v. 调整大小
+   - scroll [skroʊl] n. 卷轴 v. 卷动
 
 #### Clipboard events
 
