@@ -37,7 +37,7 @@
     - plug n. 插头 v. 插入
     - in
 29. overwrite [ˌoʊvər'raɪt] v. 重写 覆盖
-30.
+30. constructor [kən'strʌktə] n. 构造函数 构造器 建造者
 31. reference ['refrəns] n. 参考 出处 v. 附参考资料 注明出处
 32. dereference [ˌdiː'refrəns] v. [计算机]解除(指针)的关联
 33. UK 英国
@@ -82,3 +82,10 @@
 ---
 
 1. connect /kə’nɛkt/ v. 连接 联系
+
+---
+
+1. extent [ɪk'stent]
+2. extention [ɪks'tenʃn]
+3. extension [ɪk'stenʃn]
+4. extensible [ɪk'stensəbəl]
