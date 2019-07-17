@@ -13,8 +13,8 @@
 11. place [pleɪs] n. 地方
 12. add-on [æd ɑːn] n. 附加 附加组件 adj. 可追加的
     - Add-ons 附加物 附加装置 add-on 的复数形式
-13. except [ɪk'sept] v. 除外 conj.prep. 除...之外
-14. exact [ɪɡ'zækt] adj. 精确的
+13. align [ə'laɪn] v. 调整 排列 使成一行
+14. justify ['dʒʌstɪfaɪ] v. 证明...有理 两端对齐 调整版面
 15. confirm [kən'fɜːrm] v. 确定 证实
 16. reserve [rɪ'zɜːrv] v. 保留 预定
 17. margin ['mɑːrdʒən] n. 边缘 页边空白
@@ -37,11 +37,12 @@
     - plug n. 插头 v. 插入
     - in
 29. overwrite [ˌoʊvər'raɪt] v. 重写 覆盖
-30. exist [ɪɡ'zɪst] v. 存在
+30.
 31. reference ['refrəns] n. 参考 出处 v. 附参考资料 注明出处
 32. dereference [ˌdiː'refrəns] v. [计算机]解除(指针)的关联
 33. UK 英国
 34. US 美国
+35. voucher ['vaʊtʃər] n. 凭证 逮金劵
 
 ---
 
@@ -56,3 +57,28 @@
 2. read-in n. [计算机]读入
 3. write [raɪt] v. 写
 4. writable ['writable] adj. 可写的
+
+---
+
+1. compact ['kɑːmpækt] adj. 紧凑的 简洁的
+2. plain [pleɪn] n. 平原 adj. 简单的 纯的
+
+---
+
+1. extra ['ekstrə] adj. 额外的
+2. exact [ɪɡ'zækt] adj. 精确的
+3. exist [ɪɡ'zɪst] v. 存在
+
+---
+
+1. except [ɪk'sept] v. 除外 conj.prep. 除...之外
+2. exception [ɪk'sepʃn] n. 异常 例外
+
+---
+
+1. combine [kəm'baɪn] v. 使结合 联合
+2. compose [kəm'poz] v. 组成 创作
+
+---
+
+1. connect /kə’nɛkt/ v. 连接 联系
