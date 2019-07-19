@@ -1,0 +1,12 @@
+form > div {
+    margin-top: 10px;
+}
+form > div:last-child {
+    padding-left: 165px;
+}
+form > div > label {
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+  padding-right: 15px;
+}

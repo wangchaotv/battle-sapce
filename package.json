@@ -35,5 +35,8 @@
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
     "webpack": "^4.35.3"
+  },
+  "devDependencies": {
+    "debug": "^4.1.1"
   }
 }
