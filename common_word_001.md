@@ -43,6 +43,7 @@
 33. UK 英国
 34. US 美国
 35. voucher ['vaʊtʃər] n. 凭证 逮金劵
+36. tutorial
 
 ---
 
