@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/wangchaotv/battle-sapce#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "koa": "^2.7.0",
     "koa-better-http-proxy": "^0.2.4",
     "koa-bodyparser": "^4.2.1",
