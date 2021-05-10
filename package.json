@@ -27,7 +27,7 @@
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
     "localforage": "^1.7.3",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
